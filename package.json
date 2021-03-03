@@ -1,0 +1,20 @@
+{
+  "name": "code-review-demo-project",
+  "description": "Assembler School: Code Review Demo Project",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "assembler school",
+    "code reviews"
+  ],
+  "author": "Dani Lucaci <dani@assemblerschool.com>",
+  "private": true,
+  "main": "src/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assembler-school/code-review-demo-project.git"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  }
+}
